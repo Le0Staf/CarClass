@@ -1,0 +1,15 @@
+C:\Users\lest0823\source\repos\CarClass\CarClass\obj\Debug\net6.0\CarClass.csproj.AssemblyReference.cache
+C:\Users\lest0823\source\repos\CarClass\CarClass\obj\Debug\net6.0\CarClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lest0823\source\repos\CarClass\CarClass\obj\Debug\net6.0\CarClass.AssemblyInfoInputs.cache
+C:\Users\lest0823\source\repos\CarClass\CarClass\obj\Debug\net6.0\CarClass.AssemblyInfo.cs
+C:\Users\lest0823\source\repos\CarClass\CarClass\obj\Debug\net6.0\CarClass.csproj.CoreCompileInputs.cache
+C:\Users\lest0823\source\repos\CarClass\CarClass\bin\Debug\net6.0\CarClass.exe
+C:\Users\lest0823\source\repos\CarClass\CarClass\bin\Debug\net6.0\CarClass.deps.json
+C:\Users\lest0823\source\repos\CarClass\CarClass\bin\Debug\net6.0\CarClass.runtimeconfig.json
+C:\Users\lest0823\source\repos\CarClass\CarClass\bin\Debug\net6.0\CarClass.dll
+C:\Users\lest0823\source\repos\CarClass\CarClass\bin\Debug\net6.0\CarClass.pdb
+C:\Users\lest0823\source\repos\CarClass\CarClass\obj\Debug\net6.0\CarClass.dll
+C:\Users\lest0823\source\repos\CarClass\CarClass\obj\Debug\net6.0\refint\CarClass.dll
+C:\Users\lest0823\source\repos\CarClass\CarClass\obj\Debug\net6.0\CarClass.pdb
+C:\Users\lest0823\source\repos\CarClass\CarClass\obj\Debug\net6.0\CarClass.genruntimeconfig.cache
+C:\Users\lest0823\source\repos\CarClass\CarClass\obj\Debug\net6.0\ref\CarClass.dll
