@@ -27,7 +27,7 @@ namespace CarClass
             Console.WriteLine("Purchase? (y/n)");
             if (Console.ReadLine() == "y")
             {
-                Console.WriteLine("Congratulations! You just bought a " + car1.color + " " + car1.brand + "for $" + car1.price);
+                Console.WriteLine("Congratulations! You just bought a |" + car1.color + " " + car1.brand + "| for $" + car1.price);
             }
 
             Console.WriteLine("\nLook up another car? (y/n)");
